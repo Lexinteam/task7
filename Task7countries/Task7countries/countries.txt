@@ -1,0 +1,27 @@
+Austria:false
+Belgium:false
+Bulgaria:false
+Croatia:false
+Republic of Cyprus:false
+Czech Republic:false
+Denmark:false
+Estonia:false
+Finland:false
+France:false
+Germany:false
+Greece:false
+Hungary:false
+Ireland:false
+Italy:false
+Latvia:false
+Lithuania:false
+Luxembourg:false
+Malta:false
+Netherlands:false
+Poland:false
+Portugal:false
+Romania:false
+Slovakia:false
+Slovenia:false
+Spain:false
+Sweden:false
